@@ -1,0 +1,8 @@
+{
+  "name": "Multi-Model Data Analyst Agent",
+  "description": "Autonomous AI Data Analyst supporting Google Gemini and DeepSeek models, CSV & Excel spreadsheets, direct file-free agent mode, and Cloudflare D1/KV/R2 storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
